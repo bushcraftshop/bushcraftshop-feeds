@@ -1,0 +1,56 @@
+# Bushcraftshop.nl
+
+> Nederlandse webwinkel voor bushcraft-, survival- en outdooruitrusting: tarps, hangmatten, tenten, slaapzakken, messen, bijlen, kookgerei, waterfilters en kleding. Verzending vanuit Nederland naar Nederland en België. Handelsnaam van BCS Wilderness BV, opgericht in 2012 (als Moosetrail Bushcraft).
+
+Belangrijke feiten:
+
+- Assortiment: ruim 2.000 producten, gericht op bushcraft, survival, kamperen, trekking en preppen.
+- Merken: Highlander, DD Hammocks, Karrimor SF, Petromax, Woolpower, Origin Outdoors, Nortent, Pinewood, Trangia, Bushmen, Hilleberg, MoraKniv, Lifesaver, Helikon-Tex, Amazonas, Woxna, Carinthia, Berghaus, Weft - Noble Wilde, BeaverCraft, Grüezi, GearAid, Lemmel, Silva, Grangers, Kupilka, Peltonen Knives, Light My Fire, Stabilotherm, Belpo, Silky, Keela, Basic Nature, Nebo, Njord, AQUA Logic, Gränsfors Bruk, Fallkniven, Gateway1, BACH, EXTRA Bushcraft, Enetorpet, Heat It, Pokeboo, Coghlans.
+- Verzending: alleen naar Nederland (PostNL, DPD, DHL) en België (Bpost). Verzendkosten € 6,99 (NL) of € 8,99 (BE), gratis vanaf € 99. Minimale bestelwaarde € 10.
+- Levertijd: op voorraad betekent binnen 1-2 werkdagen verzonden, meestal de dag erna bezorgd.
+- Retour: 14 dagen bedenktijd na ontvangst, aanmelden via de retourportal; retourkosten zijn voor de klant.
+- Klantbeoordeling: 9,6 gemiddeld door ruim 9.600 klanten op Kiyoh. Gecertificeerd lid van Thuiswinkel Waarborg.
+- Contact: per e-mail (info@bushcraftshop.nl) en WhatsApp. Geen telefonische klantenservice.
+- Taal van de site: Nederlands. Prijzen in euro, inclusief btw.
+
+## Productcategorieën
+
+- [Onderkomen: tarps, tenten, hangmatten en slapen](https://www.bushcraftshop.nl/onderkomen/)
+- [Tarps](https://www.bushcraftshop.nl/onderkomen/tarpen-toebehoren/tarps/)
+- [Hangmatten](https://www.bushcraftshop.nl/onderkomen/hangmatten-toebehoren/hangmatten-hammocks/)
+- [Tenten en shelters](https://www.bushcraftshop.nl/onderkomen/tenten-shelters/)
+- [Slaapzakken](https://www.bushcraftshop.nl/onderkomen/slapen/slaapzakken/)
+- [Gereedschappen: messen, bijlen, zagen en houtbewerking](https://www.bushcraftshop.nl/gereedschappen/)
+- [Koken: branders, pannen, veldkeuken en buitensportmaaltijden](https://www.bushcraftshop.nl/koken/)
+- [Uitrusting: water, vuur maken, tassen, verlichting en EHBO](https://www.bushcraftshop.nl/uitrusting/)
+- [Waterfilters](https://www.bushcraftshop.nl/uitrusting/water/waterfilters/)
+- [Vuur maken](https://www.bushcraftshop.nl/uitrusting/vuur-maken/)
+- [Kleding: jassen, broeken, thermokleding en schoenen](https://www.bushcraftshop.nl/kleding/)
+- [Per activiteit: bushcraften, kamperen, trekking, wandelen, preppen en overlanding](https://www.bushcraftshop.nl/activiteiten/)
+- [Belevenissen: bushcraftcursussen en natuurreizen](https://www.bushcraftshop.nl/belevenissen/)
+- [Cadeaubon](https://www.bushcraftshop.nl/cadeaubon/)
+
+## Koopgidsen
+
+- [Welk waterfilter kies je?](https://www.bushcraftshop.nl/blogs/nieuws-blog/waterfilter-kiezen/)
+- [Woolpower 200, 400 of 600: welk gewicht kies je?](https://www.bushcraftshop.nl/blogs/nieuws-blog/woolpower-200-400-600-welk-gewicht-kies-je/)
+- [Noodpakket samenstellen: checklist](https://www.bushcraftshop.nl/blogs/nieuws-blog/noodpakket-samenstellen-checklist/)
+- [Gateway1-laarzen: welke maat en welk model?](https://www.bushcraftshop.nl/blogs/nieuws-blog/gateway1-laarzen-welke-maat-en-model-kies-je/)
+- [Zelf touw en koord maken van natuurlijke materialen](https://www.bushcraftshop.nl/blogs/nieuws-blog/zelf-touw-koord-maken-van-natuurlijke-materialen-b/)
+
+## Klantenservice
+
+- [Verzenden en retourneren](https://www.bushcraftshop.nl/service/shipping-returns/)
+- [Betaalmethoden](https://www.bushcraftshop.nl/service/payment-methods/)
+- [Garantie en klachten](https://www.bushcraftshop.nl/service/garantie-en-klachtenregeling/)
+- [Maattabellen](https://www.bushcraftshop.nl/service/maattabellen/)
+- [Btw en zakelijk bestellen](https://www.bushcraftshop.nl/service/btw-en-zakelijk-bestellen/)
+- [Contact](https://www.bushcraftshop.nl/service/contact/)
+- [Over ons](https://www.bushcraftshop.nl/service/about/)
+
+## Optional
+
+- [Reviews op Bushcraftshop.nl](https://www.bushcraftshop.nl/service/reviews-op-bushcraftshopnl/)
+- [Uitleg labels](https://www.bushcraftshop.nl/service/uitleg-labels/)
+- [Algemene voorwaarden](https://www.bushcraftshop.nl/service/general-terms-conditions/)
+- [Productfeed (Google Merchant-formaat)](https://www.bushcraftshop.nl/feed/custom/30611/)
