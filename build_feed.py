@@ -190,7 +190,7 @@ def variant_item(v, default_item, product_id):
         parts.append("<g:identifier_exists>no</g:identifier_exists>")
     # overnemen van de standaardvariant
     for tag in ["image_link", "additional_image_link", "condition", "brand", "product_type",
-                "google_product_category", "custom_label_2", "custom_label_3"]:
+                "google_product_category", "custom_label_2", "custom_label_3", "custom_label_4"]:
         for el in default_item.findall(G + tag):
             parts.append(f"<g:{tag}>{escape(el.text or '')}</g:{tag}>")
     ship = "0.00 EUR" if price >= 99 else "6.99 EUR"
