@@ -2,7 +2,7 @@ name: Aanvullende Merchant-databron
 
 on:
   schedule:
-    - cron: "17 2 * * *"   # dagelijks rond 03:17 Nederlandse tijd
+    - cron: "17 22 * * *"   # dagelijks rond 23:17 Nederlandse wintertijd (00:17 zomertijd), vóór de nachtelijke ophaalronde van ChatGPT
   workflow_dispatch:
 
 permissions:
