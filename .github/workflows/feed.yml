@@ -2,7 +2,7 @@ name: Aanvullende Merchant-databron
 
 on:
   schedule:
-    - cron: "17 22 * * *"   # dagelijks rond 23:17 Nederlandse wintertijd (00:17 zomertijd), vóór de nachtelijke ophaalronde van ChatGPT
+    - cron: "17 22 * * *" # dagelijks rond 23:17 Nederlandse wintertijd (00:17 zomertijd), vóór de nachtelijke ophaalronde van ChatGPT
   workflow_dispatch:
 
 permissions:
@@ -17,12 +17,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Feed bouwen uit Lightspeed
@@ -31,8 +28,16 @@ jobs:
           LIGHTSPEED_API_SECRET: ${{ secrets.LIGHTSPEED_API_SECRET }}
         run: python build_feed.py
       - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
       - id: deploy
         uses: actions/deploy-pages@v4
